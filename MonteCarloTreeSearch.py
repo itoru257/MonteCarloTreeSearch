@@ -61,7 +61,7 @@ if __name__ == '__main__':
     env = EnvironmentClass()
     root = Node()
 
-    num_episodes = 50000
+    num_episodes = 10000
 
     for i in range(num_episodes):
 
@@ -94,7 +94,3 @@ if __name__ == '__main__':
         s1, reward, d = env.step(a)
 
     env.print_action( action_table )
-
-    #print( action_table )
-
-    

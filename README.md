@@ -17,5 +17,5 @@ HFFG       (G: goal, where the frisbee is located)
 ### Result
 ↓  
 ↓H H  
-→→↓H  
-H →G  
+→↓ H  
+H→→G  
